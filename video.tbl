@@ -1,0 +1,6 @@
+VTBL	DD	0B800H*10000H  ;‘Œ…™…ˆ… ‚ˆ„…Ž€ŒŸ’ˆ + ‘…ƒŒ…’ ‚ˆ„…Ž€ŒŸ’ˆ
+	DW	25     ;YMAX
+	DW	80     ;XMAX
+	DB	4	;ŠŽ‹-‚Ž ˆ’Ž‚ –‚…’€
+	DB	0
+	DW	0,0,0

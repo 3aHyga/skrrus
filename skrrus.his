@@ -1,0 +1,12 @@
+v1.4 - Added CPU detection, since program can't work neither 8086 nor 8088
+       processors
+
+v1.3 - Debugged ALT+CURSOR switching keyboard
+
+v1.2 - Debugged secondary install more new version of program (older
+       version show memory error)
+
+v1.1 - Debugged RUS/LAT/GRAPH switch table appear on screen
+
+v1.0 - Version with font loading and RUS/LAT/GRAPH keyboard switch
+
