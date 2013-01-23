@@ -1,3 +1,7 @@
+v1.4.1 - Changed licence to MIT, excepts for egabold.fnt, vgabold.fnt, and
+       iso.fnt, and its derivatives as assembler includes, which have
+       undefined, and could be treated even as AbandonedWare.
+
 v1.4 - Added CPU detection, since program can't work neither 8086 nor 8088
        processors
 

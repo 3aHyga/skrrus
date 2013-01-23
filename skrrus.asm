@@ -609,7 +609,7 @@ USAGE           DB      '   Использование: SKRRUS.EXE <Команды> [Имена файлов]',
                 DB      '    /NG - Не переключаться в псевдо-графическую клавиатуру',0dh,0ah
                 DB      '   "Ctrl"+"Alt"  - Принудительная перезагрузка шрифта',0dh,0ah
                 DB      '   "Shift"+"Alt" - Переключение клавиатуры ENG/RUS/GRAPH',0dh,0ah,0
-CREDITS         DB      'VGA font and keyboard driver 1.04 by Pavel A. Skrylev (C)1997',0dh,0ah
+CREDITS         DB      'VGA font and keyboard driver. The MIT Licence (c) 2002 Malo Skrylevo (Pavel Skrylev)',0dh,0ah
                 DB      'All Right Reserved',0dh,0ah,0
 
 ALREADII        DB      0;!
